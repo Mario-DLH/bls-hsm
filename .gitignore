@@ -26,3 +26,4 @@ lib/libwolfssl.a
 lib/pwdbased.h
 lib/sha256.h
 remote-c/build
+tcp/build*
